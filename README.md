@@ -20,8 +20,14 @@ multi-threading, event-driven programming
 ---
 
 ## Coursework
-*APSC 141/142 — Introduction to Programming (C)*  
-Queen's University, 2025–2026
+
+### APSC 142 — Introduction to Programming for Engineers II (C)
+Queen's University, Winter 2026
+
+Built a terminal-based labyrinth game in C as a 4-week group project. 
+Implemented: dynamic memory allocation, file I/O for map loading, 
+pointer-based character movement, line-of-sight AI for enemy behaviour, 
+unit testing with 85%+ code coverage.
 
 ---
 
